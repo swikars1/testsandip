@@ -8,12 +8,7 @@ body
 	height: 100vh;
 	background: #112c38;
 }
-ul
-{
-	margin: 0;
-	padding: 0;
-	display: flex;
-}
+
 ul li
 {
 	list-style: none;
